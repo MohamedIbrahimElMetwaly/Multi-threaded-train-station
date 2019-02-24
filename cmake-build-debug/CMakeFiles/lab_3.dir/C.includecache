@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mohamed/Documents/lab_3/main.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+pthread.h
+-
+unistd.h
+-
+semaphore.h
+-
+train.h
+/home/mohamed/Documents/lab_3/train.h
+
+/home/mohamed/Documents/lab_3/train.h
+
